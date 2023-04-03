@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.individual{
+    box-sizing: border-box;
+    box-shadow: 1px 1px 7px #c7c7c7;
+    border: 1px solid #CFCFCF;
+    border-radius: 1%;
+    padding: 0px 10px 15px 10px;
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+}
+.individual h2{
+    font-size: 1.1rem;
+    margin-top: 2%;
+}
+table{
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+td {
+    width: 100%;
+    padding: 5px 15px 5px 15px;
+    font-size: .9em;
+    border-collapse: collapse;
+    border-bottom: 1px dotted #1A83BB;
+}
